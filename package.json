@@ -1,0 +1,21 @@
+{
+  "name": "opt-bfc",
+  "version": "2.0.0",
+  "description": "An optimizing Brainf**k transpiler with custom backend support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brainfuck",
+    "bf",
+    "compiler",
+    "optimize",
+    "optimizing"
+  ],
+  "author": "MasterR3C0RD",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
